@@ -37,3 +37,9 @@ git clone https://github.com/VishwaTechy/CakeBuddy.git
 View the project in Figma:
 CakeBuddy Figma Design https://www.figma.com/design/7UX6FwCRhgV9Uf6FBfoF0x/Untitled?node-id=0-1&t=XLcC7Zm5kr9J8jmZ-1
 
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/4c5d10bd-5a1f-4551-a16a-c9a582b6cb04" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/4a05b075-aafb-4f84-b930-6aa10e872a50" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/66a1826d-44c5-43ba-b501-ecc46852b0c8" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/274fbb42-7f0f-4cb8-8c94-eb0e176b4690" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/b53dda5c-ee7f-48f3-9774-1decef9ad2ab" />
+
